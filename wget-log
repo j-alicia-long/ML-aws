@@ -1,0 +1,11 @@
+--2021-04-22 01:47:54--  https://static01.nyt.com/images/2016/06/23/education/23ESSAYRYAN/23ESSAYRYAN-articleLarge.jpg?quality=75
+Resolving static01.nyt.com (static01.nyt.com)... 199.232.37.164
+Connecting to static01.nyt.com (static01.nyt.com)|199.232.37.164|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33218 (32K) [image/jpeg]
+Saving to: ‘jimryan3.jpeg’
+
+jimryan3.jpeg       0%[            ]       0  --.-KB/s               jimryan3.jpeg     100%[===========>]  32.44K  --.-KB/s    in 0.003s  
+
+2021-04-22 01:47:54 (11.5 MB/s) - ‘jimryan3.jpeg’ saved [33218/33218]
+
